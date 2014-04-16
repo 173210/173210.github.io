@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=SystemButtons.prx - Unofficial CAPCOM CPS1 Emulator for PSP 2.3.1 Mod
+Size=0
+Code=cps1psp
+NPage=http://173210.github.io/psp/data/cps1psp/xpd/rominfo.xpd
+
+[File]
+C=http://173210.github.io/psp/data/cps1psp/files/SystemButtons.prx
+

@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=zipnamej.mvs - Unofficial NEOGEO Emulator for PSP 2.3.1 Mod
+Size=0
+Code=mvspsp
+
+[File]
+C=http://173210.github.io/psp/data/mvspsp/files/zipnamej.mvs
+

@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=EBOOT.PBP - Unofficial NEOGEO NCDZ Emulator for PSP 2.3.1 Mod
+Size=0
+Code=ncdzpsp
+NPage=http://173210.github.io/psp/data/ncdzpsp/xpd/SystemButtons.xpd
+
+[File]
+C=http://173210.github.io/psp/data/ncdzpsp/files/EBOOT.PBP
+

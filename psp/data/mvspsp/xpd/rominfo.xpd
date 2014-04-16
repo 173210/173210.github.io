@@ -1,0 +1,10 @@
+[Info]
+EID=gdp#
+Desc=rominfo.mvs - Unofficial NEOGEO Emulator for PSP 2.3.1 Mod
+Size=0
+Code=mvspsp
+NPage=http://173210.github.io/psp/data/mvspsp/xpd/zipname.xpd
+
+[File]
+C=http://173210.github.io/psp/data/mvspsp/files/rominfo.mvs
+
