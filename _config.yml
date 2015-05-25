@@ -1,7 +1,7 @@
 # General
-name: Minimal-Block
-description: "Minimalistic, friendly, responsive."
-url: http://localhost:4000
+name: 173210's Blog
+description: "How will you describe my blog? Please tell me on twitter or email."
+url: http://173210.github.io
 
 markdown: redcarpet
 highlighter: pygments
@@ -10,10 +10,9 @@ paginate: 5
 permalink: /:title
 
 # Social share and comments.
-disqus-id: yourusername
-twitter: yourusername
-github: yourusername
-google: +yourusername
+twitter: 173210
+github: 173210
+google: +101584445317725784159
 
 # RSS feed
 rss-feed-limit: 10
