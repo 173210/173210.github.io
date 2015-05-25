@@ -21,6 +21,43 @@ title:  "Misc"
 </div>
 </form>
 
+#I want...
+* Report for PSP2PS3 with psp2ps3sfo
+
+[OneDrive](https://onedrive.live.com/?cid=e2c225ec0e4f32dd&id=E2C225EC0E4F32DD!2591&ithint=file,zip&authkey=!AA26tL6W71X1fP4)
+
+* AA Rechargeble Battery
+
+For keyboard
+
+* Broken 3DS
+
+CTR. No XL,LL,New
+
+* TA-088v3 and Lite Blue Battery
+
+Super rare. But it's needed to analyze IPL of PSP.
+
+* PS Vita under 1.80
+
+* Wii U with Webkit Exploit
+
+* PS4 with Webkit Exploit
+
+* Kindle Global version with 3G
+
+* Fujitsu Fujitsu MB82DBS08645 Die photo
+
+[Chipworks | Fujitsu FUJ-MB82M8080-07L Unclassified](https://chipworks.secure.force.com/catalog/ProductDetails?sku=FUJ-MB82M8080-07L)
+
+* DDR3 SO.DIMM Memory whose size is more than 4GB
+
+* The Legend of Zelda Ocarina of Time 3D
+
+* The Legend of Zelda Majora's Mask 3D
+
+* The Legend of Zelda Wind Waker HD
+
 #PGP Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
