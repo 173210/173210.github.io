@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Misc"
+date:   2015-06-13 13:11:20
 ---
 #Donations
 * Bitcoin
@@ -59,6 +60,7 @@ Super rare. But it's needed to analyze IPL of PSP.
 * The Legend of Zelda Wind Waker HD
 
 #PGP Key
+__Note__: The key is also hosted on _hkp://keyserver.ubuntu.com_.
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
