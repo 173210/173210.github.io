@@ -1,7 +1,7 @@
 # General
 name: 173210's Blog
 description: "How will you describe my blog? Please tell me on twitter or email."
-url: http://173210.github.io
+url: https://173210.github.io
 
 markdown: redcarpet
 highlighter: pygments
