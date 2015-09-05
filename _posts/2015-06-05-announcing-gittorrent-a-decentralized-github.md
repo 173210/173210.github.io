@@ -2,6 +2,7 @@
 layout: post
 title:  "[翻訳] GitTorrentを発表 - 分散型GitHub -"
 date:   2015-06-05 10:05:00
+tags:   Translation
 ---
 #ヤク中
  この投稿はChris Ball氏による次の投稿を翻訳したものです。

@@ -2,7 +2,7 @@
 layout: post
 title:  "[翻訳] Vitaハードウェアハックのカンパ 第二弾"
 date:   2015-07-24 13:01:20
-tags:   PSP2
+tags:   PSP2, Donation
 ---
 
 これは[Yifan Lu氏がwololo.net/talkに投稿したもの](http://wololo.net/talk/viewtopic.phpt=43670)の翻訳です.
