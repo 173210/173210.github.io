@@ -27,18 +27,6 @@ date:   2015-06-13 13:11:20
 
 [OneDrive](https://onedrive.live.com/?cid=e2c225ec0e4f32dd&id=E2C225EC0E4F32DD!2591&ithint=file,zip&authkey=!AA26tL6W71X1fP4)
 
-* AA Rechargeble Battery
-
-For keyboard
-
-<a target="_blank" href="https://www.amazon.co.jp/s/ref=as_li_ss_tl?_encoding=UTF8&bbn=13751341&camp=247&creative=7399&fst=as%3Aoff&linkCode=ur2&qid=1441337213&rh=n%3A3210981%2Cn%3A!3210991%2Cn%3A3371421%2Cn%3A3483451%2Cn%3A13751341%2Cp_n_feature_thirteen_browse-bin%3A2314244051&rnid=2314241051&tag=gps0d-22">単3 - 充電式電池 / 電池、家電＆カメラ、Amazon.co.jp</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=gps0d-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-* Broken 3DS
-
-CTR. No XL,LL,New
-
-<a target="_blank" href="https://www.amazon.co.jp/s/ref=as_li_ss_tl?_encoding=UTF8&camp=247&creative=7399&field-keywords=&linkCode=ur2&rh=n%3A637394%2Cn%3A2225588051%2Cn%3A2225589051&tag=gps0d-22&url=node%3D2225589051">Amazon.co.jp: ゲーム機本体 - ニンテンドー3DS: ゲーム</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=gps0d-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 * TA-088v3 and Lite Blue Battery
 
 Super rare. But it's needed to analyze IPL of PSP.
