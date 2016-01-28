@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # General
 name: 173210's Blog
 description: "How will you describe my blog? Please tell me on twitter or email."
