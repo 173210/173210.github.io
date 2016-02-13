@@ -88,7 +88,7 @@ article p a {
     font-weight: 300;
     line-height: 1.7;
     text-align: center;
-    width: 35%;
+    width: 20%;
 }
 
     .main-header h1 {
@@ -115,7 +115,7 @@ article p a {
 .main-content {
     float: right;
     padding: 0;
-    width: 65%;
+    width: 80%;
 }
 
     .main-content a { color: #2c3e50; }
