@@ -4,9 +4,8 @@
 <head>
     <meta charset="utf-8">
     <title>
-        {% if page.title %} {{ page.title }}
-        {% else %} {{ site.name }} &mdash; {{ site.description }}
-        {% endif %}
+        {% if page.title %} {{ page.title }} &mdash; {% endif %}
+        {{ site.name }}
     </title>
 
     <meta name="robots" content="index,follow">
