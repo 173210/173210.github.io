@@ -59,6 +59,21 @@ Super rare. But it's needed to analyze IPL of PSP.
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=gps0d-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00S66U7ZI" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=gps0d-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00DCMOV6W" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
+#License and Ideology
+![GPLv3]({{% site.url %}}/assets/gplv3.png)
+![CC-BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+
+My works are usually licensed under copyleft licenses such as GPLv3 because I
+want to read your source code. Sorry, but I'm really egoistic.
+
+However, you can ask me to license them under a different terms to include them
+in your works. Use the PGP key to contact me.
+
+If you have your own work, why don't you license under GPL? Be egoistic!
+
+I really like GPL and GNU, but note that I'm __not__ an enthusiast of GNU since
+I believe proprietary softwares are also valuable.
+
 #PGP Key
 __Note__: The key is also hosted on _hkp://keyserver.ubuntu.com_.
 
