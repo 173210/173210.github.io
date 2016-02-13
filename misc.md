@@ -43,7 +43,7 @@ Super rare. But it's needed to analyze IPL of PSP.
 
 * Fujitsu Fujitsu MB82DBS08645 Die photo
 
-[Chipworks | Fujitsu FUJ-MB82M8080-07L Unclassified](https://chipworks.secure.force.com/catalog/ProductDetails?sku=FUJ-MB82M8080-07L)
+[Chipworks \| Fujitsu FUJ-MB82M8080-07L Unclassified](https://chipworks.secure.force.com/catalog/ProductDetails?sku=FUJ-MB82M8080-07L)
 
 * DDR3 SO.DIMM Memory whose size is more than 4GB
 
@@ -62,7 +62,7 @@ Super rare. But it's needed to analyze IPL of PSP.
 #PGP Key
 __Note__: The key is also hosted on _hkp://keyserver.ubuntu.com_.
 
-```
+{% highlight raw %}
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
@@ -115,4 +115,4 @@ K8eATF841oHovQkdbe1v0gVCobriBVbbedKzOSv5Ea4bj/x1deiQTkwxJS6eOVFR
 txR4om3UrgIRBA==
 =rTVz
 -----END PGP PUBLIC KEY BLOCK-----
-```
+{% endhighlight %}
