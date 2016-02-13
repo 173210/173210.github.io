@@ -27,6 +27,13 @@ date:   2015-06-13 13:11:20
 
 [OneDrive](https://onedrive.live.com/?cid=e2c225ec0e4f32dd&id=E2C225EC0E4F32DD!2591&ithint=file,zip&authkey=!AA26tL6W71X1fP4)
 
+* mSATA SSD
+
+If you want me to add Windows support to my works, buy mSATA SSD for me.
+I'm mainly use Ubuntu and I can't spare so much size for the Windows partition.
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=gps0d-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00Z9Q1E6Y" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
 * TA-088v3 and Lite Blue Battery
 
 Super rare. But it's needed to analyze IPL of PSP.
