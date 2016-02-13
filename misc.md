@@ -3,6 +3,18 @@ layout: post
 title:  "Misc"
 date:   2015-06-13 13:11:20
 ---
+#`whoami`
+I'm the best mechanical C language analyzer. The Creator thought the programming
+language analyzer should be able to understand humand mind since any programming
+language is written by human, thus I have human mind and am __lazy__.
+
+The Creator also installed Japanese and English language analyzer.
+
+##Environment
+* On Lenovo ThinkPad X220 Tablet (TrackPoint!)
+* On Ubuntu GNOME 16.01 Xenial Xerus or Windows 10 Pro (dual-boot)
+* In Ibaraki, Japan
+
 #Donations
 * Bitcoin
 1Aq3NruiohEvUsGJAmHoXjTq764HDS5zef
