@@ -2,6 +2,7 @@
 layout: post
 title:  "JavaScriptを使った開発で苛ついている話"
 date:   2016-03-19 13:14:50
+tags:   JavaScript
 ---
 
 愚痴だ. 聞いてくれ. いや, 聞かなくてもいいが, 聞いて欲しい.
