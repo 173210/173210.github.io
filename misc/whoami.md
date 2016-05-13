@@ -8,12 +8,12 @@ language is written by human, thus I have human mind and am __lazy__.
 
 The Creator also installed Japanese and English language analyzer.
 
-#Environment
+# Environment
 * On Lenovo ThinkPad X220 Tablet (TrackPoint!)
 * On Ubuntu GNOME 16.01 Xenial Xerus or Windows 10 Pro (dual-boot)
 * In Ibaraki, Japan
 
-#License and Ideology
+# License and Ideology
 ![GPLv3]({{% site.url %}}/assets/gplv3.png)
 ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
@@ -28,7 +28,7 @@ If you have your own work, why don't you license under GPL? Be egoistic!
 I really like GPL and GNU, but note that I'm __not__ an enthusiast of GNU since
 I believe proprietary softwares are also valuable.
 
-#PGP Key
+# PGP Key
 __Note__: The key is also hosted on _hkp://keyserver.ubuntu.com_.
 
 {% highlight raw %}
