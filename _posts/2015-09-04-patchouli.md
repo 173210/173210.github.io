@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ePSPのExploitのための寄付のお願い (追記: 終了)"
-date:   2015-09-04 11:17:28
+date:   2015-09-04 11:17:28 +0900
 tags:   PSP, Donation
 ---
 さてさて, またまた寄付のお願いします. 今回はぱちゅりーさんが見つけたExploitです.

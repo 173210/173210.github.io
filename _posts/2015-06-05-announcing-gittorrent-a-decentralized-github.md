@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[翻訳] GitTorrentを発表 - 分散型GitHub -"
-date:   2015-06-05 10:05:00
+date:   2015-06-05 10:05:00 +0900
 tags:   Translation
 ---
 #ヤク中

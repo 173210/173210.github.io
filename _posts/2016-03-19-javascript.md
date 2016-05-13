@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JavaScriptを使った開発で苛ついている話"
-date:   2016-03-19 13:14:50
+date:   2016-03-19 13:14:50 +0900
 tags:   JavaScript
 ---
 

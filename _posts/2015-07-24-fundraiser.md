@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[翻訳] Vitaハードウェアハックのカンパ 第二弾"
-date:   2015-07-24 13:01:20
+date:   2015-07-24 13:01:20 +0900
 tags:   PSP2, Donation
 ---
 
