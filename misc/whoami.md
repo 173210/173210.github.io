@@ -10,7 +10,7 @@ The Creator also installed Japanese and English language analyzer.
 
 # Environment
 * On Lenovo ThinkPad X220 Tablet (TrackPoint!)
-* On Ubuntu GNOME 16.01 Xenial Xerus or Windows 10 Pro (dual-boot)
+* On Arch Linux or Windows 10 Pro (dual-boot)
 * In Ibaraki, Japan
 
 # License and Ideology
