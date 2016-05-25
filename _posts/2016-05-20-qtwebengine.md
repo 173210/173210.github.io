@@ -35,7 +35,8 @@ CMA_SIZE_MBYTES=128 # Qt WebEngineにはこれぐらい必要だった.
 ```
 
 どれどれとソースコードを見てみると, このような記述になっていた.
-```
+
+```C++
         LOG(ERROR) << "eglCreatePbufferSurface failed with error ", GetLastEGLErrorString();
 ```
 
