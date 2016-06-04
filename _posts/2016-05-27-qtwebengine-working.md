@@ -2,6 +2,7 @@
 layout: post
 title:  "RPiでQt WebEngineが動いた"
 date:   2016-05-27 07:46:26 +0900
+tags:   "Qt WebEngine"
 ---
 ついにだ, ついにQt WebEngineが動いた.
 

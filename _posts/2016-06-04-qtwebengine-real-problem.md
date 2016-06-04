@@ -2,6 +2,7 @@
 layout: post
 title:  "RPiでQt WebEngineが動かなかった本当の原因"
 date:   2016-06-04 12:58:21 +0900
+tags:   "Qt WebEngine"
 ---
 # 再び動かなくなる
 さて, これまでにX11とWaylandを試し, そしてその結果Wayland上で動作させることができたというのは先に述べたとおりだ.
