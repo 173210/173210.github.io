@@ -27,6 +27,20 @@ PS Vita PKGs. I detail them here.
 ```
 
 ```C
+#include <psp2/types.h>
+
+/** Options for sceNpDrmPackage_D6F05ACC */
+typedef struct {
+	/** The offset in encrypted data */
+	SceOff offset;
+
+	/**
+	 * The identifier specified for sceNpDrmPackage_A1D885FA but NOT ORed
+         * with (1 << 8)
+	 */
+	unsigned int identifier;
+} sceNpDrmPackage_D6F05ACC_opt;
+
 /**
  * Read the header of PKG and initialize the context
  *
@@ -43,14 +57,12 @@ int sceNpDrmPackage_A1D885FA(const void *buffer, SceSize size, int zero,
 /**
  * Decrypt the PKG
  *
- * @param buffer - The buffer containing the header of PKG.
+ * @param buffer - The buffer containing the content of PKG.
  * @param size - The size of buffer. The minimum value confirmed is 0x20.
- * @param offset - The offset in the encrypted data.
- * @param identifier - The identifier specified for sceNpDrmPackage_A1D885FA
- *                     but NOT ORed with (1 << 8).
+ * @param opt - The options.
  */
-int sceNpDrmPackage_D6F05ACC(void *buffer, SceSize size, SceOff offset,
-			     unsigned int identifier);
+int sceNpDrmPackage_D6F05ACC(void * restrict buffer, SceSize size,
+			     sceNpDrmPackage_D6F05ACC_opt * restrict opt);
 ```
 
 # WHAT'S THE NEXT?
