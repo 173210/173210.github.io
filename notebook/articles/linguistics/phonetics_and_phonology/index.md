@@ -7,6 +7,7 @@ title:  Phonetics and Phonology
 Both of them describes speech sounds or signs (phones).
 
 ## Phonetics
+
 ### Concrete
 Phonetics provides how actually phones are.
 
@@ -14,6 +15,7 @@ Phonetics provides how actually phones are.
 Phonetics is concerned with articulation, perception and physical properties.
 
 ## Phonology
+
 ### Abstract
 Phonology provides the minimal regularities. It is similar to grammar.
 
