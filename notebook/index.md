@@ -14,3 +14,4 @@ This is my notebook. Contents are coming soon.
 * [Phonetics and Phonology](articles/linguistics/phonetics_and_phonology)
 * [Social Psychology Ⅱ](articles/psychology/social_psychology)
 * [Social Research Methods](articles/social_research_methods)
+* [The Contemporary Japanese Financial System](articles/the_contemporary_japanese_financial_system)
