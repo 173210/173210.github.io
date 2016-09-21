@@ -16,3 +16,4 @@ This is my notebook. Contents are coming soon.
 * [Social Research Methods](articles/social_research_methods)
 * [The Contemporary Japanese Financial System](articles/the_contemporary_japanese_financial_system)
 * [Employability Skills](articles/employability_skills) i.e. crap in Japanese
+* [Event Management](articles/event_management)
