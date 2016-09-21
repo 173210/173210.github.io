@@ -8,6 +8,7 @@ This is my notebook. Contents have been being added.
 
 * [International Security](articles/politics/international)
 * [Japanese Politics and Political Economy](articles/politics/japan)
+* [Political Theory](articles/politics/theory)
 
 # Misc
 
