@@ -4,6 +4,10 @@ date: 2016-09-20 16:58:50 +0900
 ---
 This is my notebook. Contents have been being added.
 
+# Linguistics
+* [English Grammar](articles/linguistics/english)
+* [Phonetics and Phonology](articles/linguistics/phonetics_and_phonology)
+
 # Politics
 
 * [International Security](articles/politics/international)
@@ -12,7 +16,6 @@ This is my notebook. Contents have been being added.
 
 # Misc
 
-* [Phonetics and Phonology](articles/linguistics/phonetics_and_phonology)
 * [Social Psychology Ⅱ](articles/psychology/social_psychology)
 * [Social Research Methods](articles/social_research_methods)
 * [The Contemporary Japanese Financial System](articles/the_contemporary_japanese_financial_system)
