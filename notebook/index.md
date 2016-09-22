@@ -14,9 +14,16 @@ This is my notebook. Contents have been being added.
 * [Japanese Politics and Political Economy](articles/politics/japan)
 * [Political Theory](articles/politics/theory)
 
+# Psychology
+> The study of mind and behavior
+
+― The American Psychological Association
+
+* [Applied Psychology](articles/psychology/applied_psychology)
+* [Social Psychology Ⅱ](articles/psychology/social_psychology)
+
 # Misc
 
-* [Social Psychology Ⅱ](articles/psychology/social_psychology)
 * [Social Research Methods](articles/social_research_methods)
 * [The Contemporary Japanese Financial System](articles/the_contemporary_japanese_financial_system)
 * [Employability Skills](articles/employability_skills) i.e. crap in Japanese
