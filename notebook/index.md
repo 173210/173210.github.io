@@ -7,6 +7,7 @@ This is my notebook. Contents have been being added.
 # Linguistics
 * [English Grammar](articles/linguistics/english)
 * [Phonetics and Phonology](articles/linguistics/phonetics_and_phonology)
+* [Semantics](articles/linguistics/semantics)
 
 # Politics
 
