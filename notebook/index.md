@@ -24,6 +24,7 @@ This is my notebook. Contents have been being added.
 
 # Misc
 
+* [Journalism in Japan](articles/journalism_in_japan)
 * [Social Research Methods](articles/social_research_methods)
 * [The Contemporary Japanese Financial System](articles/the_contemporary_japanese_financial_system)
 * [Employability Skills](articles/employability_skills) a.k.a. crap in Japanese
