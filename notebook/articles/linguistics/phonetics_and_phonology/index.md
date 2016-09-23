@@ -6,7 +6,7 @@ title:  Phonetics and Phonology
 # Phonetics v.s. Phonology?
 Both of them describes speech sounds or signs (phones).
 
-## Phonetics
+## [Phonetics](phonetics)
 
 ### Concrete
 Phonetics provides how actually phones are.
@@ -26,11 +26,6 @@ Phonology is concerned with phones' representations and systematic behavior.
 A pair of phonemes are completely distinct (i.e. they can form a
 __minimal pair__). On the other hand, allophones may be representations for one
 phoneme.
-
-# Segement
-__Segment__: A discrete unit (e.g. phoneme)  
-__Suprasegment__: A unit which belongs words rather than a phonetic segment
-(e.g. stress, rhythm, and intonation)
 
 # English Transcription and Intonation
 Uses IPA (International Phonetic Alphabet)
