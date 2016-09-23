@@ -14,7 +14,7 @@ The Creator also installed Japanese and English language analyzer.
 * In Ibaraki, Japan
 
 # License and Ideology
-![GPLv3]({{ site.url }}/assets/gplv3.png)
+![GPLv3]({{ site.baseurl }}/assets/gplv3.png)
 ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 My works are usually licensed under copyleft licenses such as GPLv3 because I

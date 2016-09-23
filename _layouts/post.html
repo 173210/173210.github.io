@@ -15,7 +15,7 @@ layout: default
     <div class="social module">
         <ul>
 
-            {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+            {% capture url %}{{ site.baseurl }}{{ page.url }}{% endcapture %}
 
             {% if page.shortUrl != null %}
                 {% assign url = page.shortUrl %}

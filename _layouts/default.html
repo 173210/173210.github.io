@@ -17,10 +17,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="cleartype" content="on">
 
-    {% if site.highlighter %} <link rel="stylesheet" href="{{ site.url }}/css/syntax.css" type='text/css'> {% endif %}
-    <link rel="stylesheet" href="{{ site.url }}/css/main.css" type='text/css'>
+    {% if site.highlighter %} <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" type='text/css'> {% endif %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml">
 
 </head>
 
@@ -28,7 +28,7 @@
     <header id="top" class="main-header">
 
         <div class="module title color-1">
-            <h1><a href="{{ site.url }}/">{{ site.name }}</a></h1>
+            <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
         </div>
 
         {% if site.description %}
@@ -38,17 +38,17 @@
         {% endif %}
 
         <nav class="module main-menu color-4">
-            <a href="{{ site.url }}/">Home</a>
-            <a href="{{ site.url }}/misc/donate.html">Donate!
-            <a href="{{ site.url }}/misc/whoami.html">whoami</a>
-            <a href="{{ site.url }}/notebook">Notebook</a>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/misc/donate.html">Donate!
+            <a href="{{ site.baseurl }}/misc/whoami.html">whoami</a>
+            <a href="{{ site.baseurl }}/notebook">Notebook</a>
         </nav>
 
         <div class="module links color-3">
             <a href="https://github.com/{{ site.github }}" title="Profile in Github" target="_blank">github</a>
             <a href="https://twitter.com/{{ site.twitter }}" title="Profile in Twitter" target="_blank">twitter</a>
             <a href="https://plus.google.com/{{ site.google }}" title="Profile in Google+" target="_blank">Google+</a>
-            <a href="{{ site.url }}/feed.xml" title="Suscribe to RSS" target="_blank">rss</a>
+            <a href="{{ site.baseurl }}/feed.xml" title="Suscribe to RSS" target="_blank">rss</a>
         </div>
 
 <a class="twitter-timeline" href="https://twitter.com/173210" data-widget-id="340796223290220544">@173210's Tweets</a>

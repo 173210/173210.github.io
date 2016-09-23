@@ -2,7 +2,6 @@ gems: [jekyll-paginate]
 
 # General
 name: 173210's Blog
-url: https://173210.github.io
 
 highlighter: rouge
 
