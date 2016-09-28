@@ -16,7 +16,10 @@ Social Psychology has the following concerns:
 # Social Relation
 Social Relation also has distinct concerns:
 
-* Attraction
+* [Attraction](attraction)
 * Helping
 * Aggression
 * Grouping
+
+# The Need to Belong
+A basic human motive.
