@@ -3,6 +3,9 @@ date: 2016-09-20 21:10:34
 layout: post
 title: Social Research Methods
 ---
+# Articles
+* [Variable](variable)
+
 # Science
 Science allows to prove its correctness. (contrast to intuition)
 Science has scientific skepticism (contrast to authority)
