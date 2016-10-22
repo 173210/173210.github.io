@@ -13,8 +13,8 @@ PS Vita PKGs. I detail them here.
         "modules": {
             "SceNpDrmPackage": {
                 "functions": {
-                    "sceNpDrmPackage_A1D885FA": 2715321850,
-                    "SceNpDrmPackage_D6F05ACC": 3606076108
+                    "_sceNpDrmPackageCheck": 2715321850,
+                    "_sceNpDrmPackageDecrypt": 3606076108
                 },
                 "kernel": false,
                 "nid": 2287029682,
@@ -29,17 +29,17 @@ PS Vita PKGs. I detail them here.
 ```C
 #include <psp2/types.h>
 
-/** Options for sceNpDrmPackage_D6F05ACC */
+/** Options for _sceNpDrmPackageDecrypt */
 typedef struct {
 	/** The offset in encrypted data */
 	SceOff offset;
 
 	/**
-	 * The identifier specified for sceNpDrmPackage_A1D885FA but NOT ORed
+	 * The identifier specified for _sceNpDrmPackageCheck but NOT ORed
          * with (1 << 8)
 	 */
 	unsigned int identifier;
-} sceNpDrmPackage_D6F05ACC_opt;
+} _sceNpDrmPackageDecrypt_opt;
 
 /**
  * Read the header of PKG and initialize the context
@@ -51,8 +51,8 @@ typedef struct {
  *                     If it is set to 0, the function just checks the header
  *                     and doesn't create the context.
  */
-int sceNpDrmPackage_A1D885FA(const void *buffer, SceSize size, int zero,
-			     unsigned int identifier);
+int _sceNpDrmPackageCheck(const void *buffer, SceSize size, int zero,
+                          unsigned int identifier);
 
 /**
  * Decrypt the PKG
@@ -61,9 +61,18 @@ int sceNpDrmPackage_A1D885FA(const void *buffer, SceSize size, int zero,
  * @param size - The size of buffer. The minimum value confirmed is 0x20.
  * @param opt - The options.
  */
-int sceNpDrmPackage_D6F05ACC(void * restrict buffer, SceSize size,
-			     sceNpDrmPackage_D6F05ACC_opt * restrict opt);
+int _sceNpDrmPackageDecrypt(void * restrict buffer, SceSize size,
+                            _sceNpDrmPackageDecrypt_opt * restrict opt);
 ```
+
+The source of function names: [Vita NIDs - Pastebin.com](http://pastebin.com/iGFQ9jfe)
+(found by [@devnoname120](https://twitter.com/devnoname120))
+
+devnoname120 raised a question for prefix `_`. I think it is legitimate because
+they are intended for the internal use. Those functions are actually primitive
+and a userland static library gives more advanced functions. Probably they are
+expected to be called just by the library and users will use the library instead
+of calling them by themselves.
 
 # WHAT'S THE NEXT?
 By the way, those functions are revealed with reversing
