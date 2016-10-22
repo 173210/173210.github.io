@@ -13,8 +13,8 @@ PS Vita PKGs. I detail them here.
         "modules": {
             "SceNpDrmPackage": {
                 "functions": {
-                    "sceNpDrmPackage_A1D885FA": 2715321850,
-                    "SceNpDrmPackage_D6F05ACC": 3606076108
+                    "sceNpDrmPackageCheck": 2715321850,
+                    "sceNpDrmPackageDecrypt": 3606076108
                 },
                 "kernel": false,
                 "nid": 2287029682,
@@ -29,17 +29,17 @@ PS Vita PKGs. I detail them here.
 ```C
 #include <psp2/types.h>
 
-/** Options for sceNpDrmPackage_D6F05ACC */
+/** Options for sceNpDrmPackageDecrypt */
 typedef struct {
 	/** The offset in encrypted data */
 	SceOff offset;
 
 	/**
-	 * The identifier specified for sceNpDrmPackage_A1D885FA but NOT ORed
+	 * The identifier specified for sceNpDrmPackageCheck but NOT ORed
          * with (1 << 8)
 	 */
 	unsigned int identifier;
-} sceNpDrmPackage_D6F05ACC_opt;
+} sceNpDrmPackageDecrypt_opt;
 
 /**
  * Read the header of PKG and initialize the context
@@ -51,7 +51,7 @@ typedef struct {
  *                     If it is set to 0, the function just checks the header
  *                     and doesn't create the context.
  */
-int sceNpDrmPackage_A1D885FA(const void *buffer, SceSize size, int zero,
+int sceNpDrmPackageCheck(const void *buffer, SceSize size, int zero,
 			     unsigned int identifier);
 
 /**
@@ -61,8 +61,8 @@ int sceNpDrmPackage_A1D885FA(const void *buffer, SceSize size, int zero,
  * @param size - The size of buffer. The minimum value confirmed is 0x20.
  * @param opt - The options.
  */
-int sceNpDrmPackage_D6F05ACC(void * restrict buffer, SceSize size,
-			     sceNpDrmPackage_D6F05ACC_opt * restrict opt);
+int sceNpDrmPackageDecrypt(void * restrict buffer, SceSize size,
+			     sceNpDrmPackageDecrypt_opt * restrict opt);
 ```
 
 # WHAT'S THE NEXT?
