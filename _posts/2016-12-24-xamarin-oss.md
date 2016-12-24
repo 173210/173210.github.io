@@ -58,6 +58,7 @@ Webのインターフェイスがあり, そこでバグの閲覧, 報告がで�
 さて, バグを直そう. でも, その前に準備.
 
 ## 準備
+
 ### Xamarin Studioをインストールする
 Xamarin.FormsにはUnitTestsとUITestsの2つのテストの種類がある.
 残念だが, Visual StudioでUnitTestsのテストを実行する方法を確認できなかった. 仕方がないので,
