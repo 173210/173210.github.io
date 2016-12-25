@@ -9,6 +9,12 @@ layout: post
 
 [1週間遅れの公開となってしまった]({{site.url}}/advent). 待っていた方がいたら申し訳ない.
 
+また, 同じくQiitaで公開されている _東京理科大学 Advent Calendar 2016_ の4日目の記事である.
+
+[東京理科大学 Advent Calendar 2016 - Qiita](http://qiita.com/advent-calendar/2016/tokyo_university_of_science)
+
+こちらは空いていたところを後日埋めただけなので遅れたわけではない.
+
 初心者向けAdvent Calendarであるものの, この記事ではXamarin.Formsをすでに使ったことがある方を対象とする.
 そのため, Xamarin.Formsは何か, といったことは解説しないのでご了承願いたい.
 
